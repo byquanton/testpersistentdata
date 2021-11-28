@@ -1,0 +1,8 @@
+name: Testpersistentdata
+version: '${project.version}'
+main: me.byquanton.testpersistentdata.Testpersistentdata
+api-version: 1.17
+authors: [ byquanton ]
+commands:
+  testpersistent:
+    usage: /testpersistent get|set <value>
